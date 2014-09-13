@@ -1,4 +1,1 @@
-Academico
-=========
-
-Sistema Academico
+Esta es una prueba de academico
